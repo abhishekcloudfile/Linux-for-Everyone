@@ -1,0 +1,37 @@
+What is Not DevOps?
+DevOps is not just about using tools or technology; it’s about how people and teams work together. It’s not a single job role, like a "DevOps Engineer," but a way of thinking and working. DevOps doesn’t mean doing the same thing for every company—it’s flexible and changes based on needs. While automation is important, DevOps is more about teamwork, solving problems, and improving processes. It also doesn’t replace other methods like Agile but works alongside them to make things run more smoothly.
+
+What is DevOps?
+DevOps is a way of working that unites development (software creators) and operations (software maintainers) to deliver software faster and more efficiently. It focuses on teamwork, automation, and continuous improvement.
+
+Example: Automating testing processes to provide instant feedback on code changes.
+
+Key Concepts in DevOps.
+Automation
+Definition: Using tools to handle repetitive tasks like testing, deploying, and monitoring.
+
+Example: CI/CD pipelines deploy updates automatically.
+
+Scaling
+Definition: Adjusting resources to meet demand.
+
+Vertical Scaling: Adding more power to a server.
+
+Horizontal Scaling: Adding more servers.
+
+Example: Adding web servers during high-traffic sales.
+
+Infrastructure
+Definition: The foundation for software, managed using code.
+
+Example: Tools like Terraform define infrastructure in code for consistency.
+
+Why DevOps Matters
+- Faster Delivery:
+- Improved Quality:
+- Reliability:
+- Cost Efficiency:
+- Happier Users:
+
+
+In a simple way “Anything that helps you to deploy your product or service to the market better, chipper, faster and more secure way that is DevOps”
